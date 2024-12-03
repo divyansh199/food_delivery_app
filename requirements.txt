@@ -17,3 +17,4 @@ Werkzeug
 WTForms
 scikit-learn
 xgboost
+gunicorn
