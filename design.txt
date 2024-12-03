@@ -1,0 +1,31 @@
+We are going to build a web for predicting in how much time our food will be delivered to us
+
+Class -> DataCleaning
+        extract_column_value()
+        update_datatype()
+
+class-> FeatureEngineering
+        extract_date_features()
+        calculate_time_diff()
+
+class-> CalculateDistance
+
+class-> Encoding
+        labelendcoder()
+
+
+
+------------------------------x------------------------
+
+class-> HomePage
+        get()
+
+
+class-> FormPage
+        get()
+        put()
+
+class-> FoodForm
+
+
+
